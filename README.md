@@ -1,4 +1,4 @@
-# SDL Workshop
+# SDL Workshop 💻
 
 ## Overview
 
@@ -12,7 +12,7 @@ Welcome to the SDL Workshop! This repository contains resources and examples to 
 4. [Documentation](#documentation)
 5. [Contributing](#contributing)
 
-## Getting Started
+## Getting Started 🚀
 
 To begin with the SDL Workshop, follow these steps:
 
@@ -20,7 +20,7 @@ To begin with the SDL Workshop, follow these steps:
 
 Before you start, ensure you have the following installed on your system:
 
-- [SDL Library](https://www.libsdl.org/download-2.0.php)
+GCC:
 - [C/C++ Compiler](https://gcc.gnu.org/install/index.html)
 
 ### Installation
